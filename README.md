@@ -135,13 +135,7 @@ loop-d-loops/
 
 ## License
 
-MIT License — roast it, fork it, improve it, ship it.
-
----
-
-## Credits & Lore
-
-Built in one glorious session by **Grok** (xAI) for rarebeariam
+MIT License — roast it, fork it, improve it, ship 
 
 Because the future of workflows isn’t more loops.  
 It’s **Loop D' Loops**.
